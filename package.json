@@ -1,0 +1,11 @@
+{
+  "name": "minecraftid-whitelist-manager",
+  "version": "1.0.0",
+  "description": "MinecraftID Server Whitelist With Google Sheets API",
+  "main": "index.js",
+  "author": "MinecraftID",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^94.0.0"
+  }
+}

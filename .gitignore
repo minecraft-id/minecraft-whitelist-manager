@@ -1,2 +1,4 @@
 node_modules
 configuration/app-keys.json
+yarn.lock
+package-lock.json

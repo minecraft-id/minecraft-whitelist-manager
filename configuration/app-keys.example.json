@@ -1,5 +1,7 @@
 {
   "private_key" : "Get keys from Google Api !",
   "client_email" : "remove .example to use",
-  "sheetId": "get from URL Google Sheets"
+  "sheetId": "get from URL Google Sheets",
+  "apiUrl" : "Pterodactyl API URL",
+  "apiAuthorization" : "Pterodactyl API Authorization"
 }

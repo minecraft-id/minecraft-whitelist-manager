@@ -6,6 +6,8 @@
   "author": "MinecraftID",
   "license": "MIT",
   "dependencies": {
-    "googleapis": "^94.0.0"
+    "axios": "^0.25.0",
+    "googleapis": "^94.0.0",
+    "node-fetch": "2"
   }
 }
